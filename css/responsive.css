@@ -1,0 +1,169 @@
+@media (max-height: 575px) {
+  .row-2 h1 {
+    font-size: 2.75em;
+    color: white;
+    font-weight: 100;
+  }
+  .row-2 h2 {
+    font-size: 2.75em;
+    color: white;
+    font-weight: 900;
+  }
+  .row-2 p {
+    font-size: 15px;
+  }
+  .navbar {
+    display: none;
+  }
+  .featured-section {
+    padding: 80px 5px;
+  }
+  .featured-list {
+    padding-left: 25px;
+    padding-right: 25px;
+    display: inline;
+    font-size: 15px;
+  }
+  .featured-row-1 {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    padding-top: 30px;
+  }
+  .featured-row-2 {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+  }
+  .featured-col-1 {
+    flex-basis: 100%;
+  }
+  .featured-col-2 {
+    flex-basis: 100%;
+  }
+  .featured-col-3 {
+    flex-basis: 100%;
+  }
+  .featured-list li {
+    padding: 0 15px;
+  }
+  .resume-row-2,
+  .resume-row-3,
+  .resume-row-4,
+  .resume-row-5 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    flex-wrap: wrap;
+  }
+  .resume-col-1 {
+    background-color: #333;
+    flex-basis: 100%;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  .resume-col-2 {
+    background-color: #333;
+    flex-basis: 100%;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  .rusume {
+    background-color: #202426;
+    padding: 80px 20px;
+  }
+  .about-col-1 {
+    flex-basis: 100%;
+  }
+  .about-col-2 {
+    flex-basis: 100%;
+    text-align: left;
+    width: 100%;
+  }
+  .about-row-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .about {
+    padding: 80px 20px;
+  }
+  .about-h3 {
+    padding: 35px 0;
+  }
+  .testimonial-2nd-row-1 {
+    display: flex;
+    position: relative;
+  }
+  .testimonial-row-1 {
+    display: inline-flex;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+  }
+  .testimonial-row-2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .testimonial {
+    background-color: #202426;
+    padding: 80px 20px;
+  }
+  .testimonial-col-1 {
+    padding-bottom: 30px;
+  }
+  .services {
+    background-color: #202426;
+    padding: 80px 20px;
+  }
+  .services-row-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+  .services-col-1,
+  .services-col-2,
+  .services-col-3 {
+    background-color: #333;
+    flex-basis: 100%;
+    padding: 40px;
+    margin: 30px;
+  }
+  .blog {
+    background-color: #202426;
+    padding: 80px 20px;
+  }
+  .blog-col-1,
+  .blog-col-2,
+  .blog-col-3 {
+    background-color: #333;
+    flex-basis: 100%;
+    margin: 30px;
+  }
+  .blog-2nd-row-2 {
+    padding: 30px 20px;
+  }
+  .blog-row-1 {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+  .touch-col-1 {
+    flex-basis: 100%;
+    margin-bottom: 20vh;
+  }
+  .touch-col-2 {
+    flex-basis: 100%;
+  }
+  .touch-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .touch{
+    background-color: #202426;
+    padding: 80px 20px;
+  }
+}
